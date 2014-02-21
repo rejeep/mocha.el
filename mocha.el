@@ -1,4 +1,4 @@
-;;; mocha.el --- TODO
+;;; mocha.el --- Emacs minor mode for Mocha.js
 
 ;; Copyright (C) 2014 Johan Andersson
 
