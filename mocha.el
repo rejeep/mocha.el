@@ -7,7 +7,7 @@
 ;; Version: 0.0.1
 ;; Keywords: test, javascript, mocha
 ;; URL: http://github.com/rejeep/mocha.el
-;; Package-Requires: ((s "1.9.0") (dash "2.5.0") (f "0.16.0") (nvm "0.0.3") (emacs "24))
+;; Package-Requires: ((s "1.9.0") (dash "2.5.0") (f "0.16.0") (nvm "0.0.3") (emacs "24"))
 
 ;; This file is NOT part of GNU Emacs.
 
